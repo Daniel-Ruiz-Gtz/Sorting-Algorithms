@@ -65,3 +65,7 @@ Sorted list: [1, 2, 5, 5, 6, 9]
 ```
 
 Bubble Sort is not efficient for large lists, as it has an average time complexity of O(n^2). However, it is useful for small or nearly sorted lists due to its simplicity.
+
+## Algorithm Animation
+
+![Bubble Sort Animation](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)

@@ -78,3 +78,7 @@ Sorted list: [1, 2, 5, 5, 6, 9]
 ```
 
 Insertion Sort has an average time complexity of O(n^2) in the worst-case scenario, but it is more efficient than Bubble Sort in most cases. It is especially useful for small or nearly sorted lists.
+
+## Algorithm Animation
+
+![Selection Insertion Animation](https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif)
